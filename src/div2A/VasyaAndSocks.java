@@ -1,0 +1,10 @@
+package div2A;
+import java.util.Scanner;
+public class VasyaAndSocks {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt(), m = sc.nextInt();
+		System.out.println(n + ((n - 1) / (m - 1)));
+		sc.close();
+	}
+}
