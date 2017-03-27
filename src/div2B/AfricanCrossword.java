@@ -1,4 +1,4 @@
-package div2A;
+package div2B;
 
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
